@@ -2,5 +2,5 @@
 
 **_makes_ perfect** 
 
-~ git code ~ 
+`git code`
 >quote
